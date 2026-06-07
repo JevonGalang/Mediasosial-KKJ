@@ -13,7 +13,7 @@ function Navbar() {
     <nav className="navbar" id="main-navbar">
       <div className="navbar-container">
         <div className="navbar-brand">
-          <span className="navbar-logo">🤖</span>
+          <span className="navbar-logo"></span>
           <h1 className="navbar-title">SosialKu</h1>
         </div>
         <div className="navbar-search">

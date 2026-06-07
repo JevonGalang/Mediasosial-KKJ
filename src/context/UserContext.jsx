@@ -7,7 +7,7 @@ const POSTS_DATA = [
     date: "28 Mei 2026",
     comments: [
       { id: "c1-1", name: "", text: "hoki doang ", isBot: true, replies: [] },
-      { id: "c1-2", name: "AutoReply99", text: "jangan lupa konvoinya", isBot: true, replies: [] },
+      { id: "c1-2", name: "pak sumaredi ", text: "jangan lupa konvoinya", isBot: true, replies: [] },
     ],
   },
   {
@@ -32,15 +32,15 @@ const POSTS_DATA = [
     text: "Lagi dengerin lagu baru, enak bgt buat santai~",
     date: "30 Mei 2026",
     comments: [
-      { id: "c4-1", name: "AIbuddy", text: "Lagu apa tuh? Share dong!", isBot: true, replies: [] },
+      { id: "c4-1", name: "AIbuddy", text: "Lagu apaan bre?", isBot: true, replies: [] },
     ],
   },
   {
     userId: 3,
-    text: "Hari ini cuacanya panas banget, pengen es cendol 🥤",
+    text: "suka banget sama lagu justin bieber",
     date: "26 Mei 2026",
     comments: [
-      { id: "c5-1", name: "CepatBales", text: "Setuju banget sama ini 👍", isBot: true, replies: [] },
+      { id: "c5-1", name: "CepatBales", text: "Lana del rey ah...", isBot: true, replies: [] },
     ],
   },
   {
@@ -48,8 +48,8 @@ const POSTS_DATA = [
     text: "Baru nonton film kemarin, ceritanya seru abis!",
     date: "29 Mei 2026",
     comments: [
-      { id: "c6-1", name: "BotGaul", text: "Film apa? Aku juga mau nonton!", isBot: true, replies: [] },
-      { id: "c6-2", name: "SiBot_Keren", text: "Seru banget kayaknya!", isBot: true, replies: [] },
+      { id: "c6-1", name: "galihGaul", text: "Film apaan? Aku juga mau nonton!", isBot: true, replies: [] },
+      { id: "c6-2", name: "SipalingNgertiFilm", text: "seberapa PEAK sih?", isBot: true, replies: [] },
     ],
   },
   {
@@ -66,7 +66,8 @@ const POSTS_DATA = [
     text: "Siapa yang suka kopi susu? Aku tiap hari minum ☕",
     date: "28 Mei 2026",
     comments: [
-      { id: "c8-1", name: "KomentarBot", text: "Aku juga pecinta kopi susu! ☕", isBot: true, replies: [] },
+      { id: "c8-1", name: "fariz01 ", text: "MENDING MATCHA LAH", isBot: true, replies: [] },
+      { id: "c8-1", name: "cheaa ", text: "kopi susu 8 ribuan paling enak ", isBot: true, replies: [] },
     ],
   },
   {
@@ -74,7 +75,7 @@ const POSTS_DATA = [
     text: "Main game semalem sampe lupa waktu, hehe 🎮",
     date: "26 Mei 2026",
     comments: [
-      { id: "c9-1", name: "RoboFriend", text: "Haha bener banget sih 😂", isBot: true, replies: [] },
+      { id: "c9-1", name: "Friendsalloy", text: "Haha bener banget sih 😂", isBot: true, replies: [] },
     ],
   },
   {
@@ -83,7 +84,7 @@ const POSTS_DATA = [
     date: "30 Mei 2026",
     comments: [
       { id: "c10-1", name: "AIbuddy", text: "Kapan-kapan ajak aku ya!", isBot: true, replies: [] },
-      { id: "c10-2", name: "CepatBales", text: "Aduh jadi pengen juga 😍", isBot: true, replies: [] },
+      { id: "c10-2", name: "nugrahaAlamsyah", text: "Aduh jadi pengen juga 😍", isBot: true, replies: [] },
     ],
   },
   {
@@ -91,7 +92,7 @@ const POSTS_DATA = [
     text: "Masak sendiri hari ini, hasilnya lumayan lah ya 🍲",
     date: "27 Mei 2026",
     comments: [
-      { id: "c11-1", name: "BotGaul", text: "Wahh asyik banget tuh!", isBot: true, replies: [] },
+      { id: "c11-1", name: "fredoAlexander", text: "Wahh asyik banget tuh!", isBot: true, replies: [] },
     ],
   },
   {
@@ -99,8 +100,8 @@ const POSTS_DATA = [
     text: "Baru belajar React, ternyata seru juga!",
     date: "31 Mei 2026",
     comments: [
-      { id: "c12-1", name: "SiBot_Keren", text: "Semangat belajarnya! 🔥", isBot: true, replies: [] },
-      { id: "c12-2", name: "AutoReply99", text: "Aku juga lagi belajar nih!", isBot: true, replies: [] },
+      { id: "c12-1", name: "xiesta", text: "Semangat belajarnya! 🔥", isBot: true, replies: [] },
+      { id: "c12-2", name: "bocahLetris", text: "Aku juga lagi belajar nih!", isBot: true, replies: [] },
     ],
   },
   {
@@ -108,7 +109,7 @@ const POSTS_DATA = [
     text: "Jogging pagi tadi, sekarang badan seger banget 🏃",
     date: "28 Mei 2026",
     comments: [
-      { id: "c13-1", name: "BotPintar", text: "Mantap jiwa! 🤩", isBot: true, replies: [] },
+      { id: "c13-1", name: "sisil", text: "Mantap jiwa! 🤩", isBot: true, replies: [] },
     ],
   },
   {
@@ -116,7 +117,7 @@ const POSTS_DATA = [
     text: "Lagi nyari rekomendasi buku bagus, ada saran?",
     date: "30 Mei 2026",
     comments: [
-      { id: "c14-1", name: "KomentarBot", text: "Coba baca Atomic Habits, bagus banget!", isBot: true, replies: [] },
+      { id: "c14-1", name: "acumalaka88", text: "Coba baca Atomic Habits, bagus banget!", isBot: true, replies: [] },
     ],
   },
   {
@@ -124,8 +125,8 @@ const POSTS_DATA = [
     text: "Kucingku baru lahiran, lucu banget anaknya 🐱",
     date: "29 Mei 2026",
     comments: [
-      { id: "c15-1", name: "RoboFriend", text: "Aduh jadi pengen juga 😍", isBot: true, replies: [] },
-      { id: "c15-2", name: "AIbuddy", text: "Foto dong pengen liat! 📸", isBot: true, replies: [] },
+      { id: "c15-1", name: "bagusnus", text: "Aduh jadi pengen juga 😍", isBot: true, replies: [] },
+      { id: "c15-2", name: "fahrialvivi", text: "Foto dong pengen liat! 📸", isBot: true, replies: [] },
     ],
   },
   {
@@ -133,7 +134,7 @@ const POSTS_DATA = [
     text: "Hari Senin lagi, semangat kerja semuanya! 💪",
     date: "1 Juni 2026",
     comments: [
-      { id: "c16-1", name: "CepatBales", text: "Semangat terus ya! 💪", isBot: true, replies: [] },
+      { id: "c16-1", name: "DewanggaDeJET", text: "Semangat terus ya! 💪", isBot: true, replies: [] },
     ],
   },
   {
@@ -141,8 +142,8 @@ const POSTS_DATA = [
     text: "Baru coba cafe baru di deket rumah, tempatnya aesthetic! ✨",
     date: "29 Mei 2026",
     comments: [
-      { id: "c17-1", name: "BotGaul", text: "Seru banget kayaknya!", isBot: true, replies: [] },
-      { id: "c17-2", name: "SiBot_Keren", text: "Mau dong diajakin 😎", isBot: true, replies: [] },
+      { id: "c17-1", name: "ARBIYEAY", text: "Seru banget kayaknya!", isBot: true, replies: [] },
+      { id: "c17-2", name: "Maxal_ngantuk", text: "Mau dong diajakin 😎", isBot: true, replies: [] },
     ],
   },
   {
@@ -150,7 +151,7 @@ const POSTS_DATA = [
     text: "Lagi binge-watch drakor, ga bisa berhenti 📺",
     date: "31 Mei 2026",
     comments: [
-      { id: "c18-1", name: "AutoReply99", text: "Wkwk iya bener 😆", isBot: true, replies: [] },
+      { id: "c18-1", name: "anakBapakAsep", text: "Wkwk iya bener 😆", isBot: true, replies: [] },
     ],
   },
   {
@@ -158,7 +159,7 @@ const POSTS_DATA = [
     text: "Hujan deras banget, untung bawa payung 🌧️",
     date: "30 Mei 2026",
     comments: [
-      { id: "c19-1", name: "BotPintar", text: "Aku juga pernah ngalamin ini loh", isBot: true, replies: [] },
+      { id: "c19-1", name: "siNERD", text: "Aku juga pernah ngalamin ini loh", isBot: true, replies: [] },
     ],
   },
   {
@@ -166,8 +167,8 @@ const POSTS_DATA = [
     text: "Foto sunset tadi sore bagus banget, sayang ga sempet motret 🌅",
     date: "1 Juni 2026",
     comments: [
-      { id: "c20-1", name: "KomentarBot", text: "Kangen juga nih sama hal kayak gini", isBot: true, replies: [] },
-      { id: "c20-2", name: "RoboFriend", text: "Next time harus siap kamera ya! 📷", isBot: true, replies: [] },
+      { id: "c20-1", name: "rahayu diningrat", text: "Kangen juga nih sama hal kayak gini", isBot: true, replies: [] },
+      { id: "c20-2", name: "BotakAsep", text: "Next time harus siap kamera ya! 📷", isBot: true, replies: [] },
     ],
   },
 ];

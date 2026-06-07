@@ -118,7 +118,7 @@ function ProfileView({ user, onLike, onFollow, onAddComment, onReplyComment, onB
                           >
                             <div className="comment-top">
                               <span className="comment-name">
-                                {comment.isBot ? "🤖" : "👤"} {comment.name}
+                                {comment.isBot ? " " : "👤"} {comment.name}
                               </span>
                               <button
                                 className="reply-toggle-btn"
@@ -138,7 +138,7 @@ function ProfileView({ user, onLike, onFollow, onAddComment, onReplyComment, onB
                                   key={rIdx}
                                 >
                                   <span className="comment-name">
-                                    {reply.isBot ? "🤖" : "👤"} {reply.name}
+                                    {reply.isBot ? "" : "👤"} {reply.name}
                                   </span>
                                   <span className="comment-text">{reply.text}</span>
                                 </div>

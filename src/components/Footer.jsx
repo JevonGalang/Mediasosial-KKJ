@@ -3,7 +3,7 @@ function Footer() {
     <footer className="footer" id="main-footer">
       <div className="footer-container">
         <p className="footer-text">
-          🤖 <strong>SosialKu</strong> &mdash; Dibuat dengan React JS untuk belajar Hooks
+           <strong>SosialKu</strong> &mdash; Term privacy and services.
         </p>
         <p className="footer-sub">
           useState &bull; useEffect &bull; useContext &bull; useRef
